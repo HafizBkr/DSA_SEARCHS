@@ -1,4 +1,4 @@
-# DSA_SEARCHS
+# DSA_SEARCHS.
 
 Algorithms for String and Array Searches
 
