@@ -1,6 +1,6 @@
 # DSA_SEARCHS.
 
-Algorithms for String and Array Searches
+Algorithms for String and Array Searches:
 
 This repository contains implementations of various search algorithms in Go programming language.
 Algorithms Implemented
