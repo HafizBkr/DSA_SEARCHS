@@ -28,7 +28,7 @@ Algorithms Implemented
     Substring Search
         File: find_substring/find_substring.go
         Test: find_substring/find_substring_test.go
-        Description: Substring search checks for the presence of a substring within a given string using simple iteration.
+        Description: Substring search checks for the presence of a substring within a given string using simple iteration..
 
 Usage
 
